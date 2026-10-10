@@ -10,7 +10,7 @@ Volotome does not collect any data. It has no accounts, no ads, no analytics and
 
 ## Your audiobooks
 
-The audiobooks you add, their covers and your listening positions are stored only on your iPhone, inside Volotome. They are not included in iCloud backups.
+The audiobooks you add, their covers and your listening positions are stored only on your devices, inside Volotome. They are not included in iCloud backups.
 
 When you choose a cover from your photos, Volotome receives only the photo you pick. It cannot see the rest of your library.
 
@@ -42,4 +42,6 @@ If this policy changes, the new version will be posted on this page with a new e
 
 ## Contact
 
-Questions about privacy: volotome.ranger808@slmail.me
+Questions about privacy: mailto:volotome.ranger808@slmail.me
+
+Support at https://danielmejlvang.github.io/Volotome-Privacy/support

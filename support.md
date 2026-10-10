@@ -1,6 +1,6 @@
 # Volotome Support
 
-Need help or found a bug? Email volotome.ranger808@slmail.me and I'll get back to you.
+Need help or found a bug? Email mailto:volotome.ranger808@slmail.me and I'll get back to you.
 
 ## How do I add audiobooks?
 
@@ -21,3 +21,7 @@ No. Audiobooks and listening statistics are not included in iCloud backups.
 ## How do I move my listening statistics to a new iPhone?
 
 On your old iPhone, go to **Settings › Export Listening Data**. On the new one, add the file with **Settings › Import Listening Data**.
+
+## Privacy Policy
+
+https://danielmejlvang.github.io/Volotome-Privacy/

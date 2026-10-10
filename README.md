@@ -42,6 +42,6 @@ If this policy changes, the new version will be posted on this page with a new e
 
 ## Contact
 
-Questions about privacy: mailto:volotome.ranger808@slmail.me
+Questions about privacy: [volotome.ranger808@slmail.me](mailto:volotome.ranger808@slmail.me)
 
 Support at https://danielmejlvang.github.io/Volotome-Privacy/support

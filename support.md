@@ -1,6 +1,6 @@
 # Volotome Support
 
-Need help or found a bug? Email [your email] and I'll get back to you.
+Need help or found a bug? Email volotome.ranger808@slmail.me and I'll get back to you.
 
 ## How do I add audiobooks?
 

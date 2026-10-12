@@ -1,10 +1,12 @@
-# Volotome Support
+# Support
 
 Need help or found a bug? Email [volotome.ranger808@slmail.me](mailto:volotome.ranger808@slmail.me?subject=Volotome%20Support) and I'll get back to you.
 
 ## How do I add audiobooks?
 
-Tap **+** in the Audiobooks tab to import from the Files app. Or connect your iPhone to a Mac, select it in Finder, open the **Files** tab and drag your audiobooks onto **Volotome**.
+Tap **+** in the Audiobooks tab to import from the Files app. 
+Or connect your iPhone to a Mac, select it in Finder, open the **Files** tab and drag your audiobooks onto **Volotome**.
+You can also use iTunes on Windows.
 
 ## Which files can Volotome play?
 
@@ -24,4 +26,4 @@ On your old iPhone, go to **Settings › Export Listening Data**. On the new one
 
 ## Privacy Policy
 
-https://danielmejlvang.github.io/Volotome-Privacy/
+[https://danielmejlvang.github.io/Volotome-Privacy/](https://danielmejlvang.github.io/Volotome-Privacy/)

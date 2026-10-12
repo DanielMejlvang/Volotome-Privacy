@@ -12,6 +12,10 @@ You can also use iTunes on Windows.
 
 DRM-free MP3, M4A and M4B files.
 
+### Can I play audiobooks from Audible or Apple Books?
+
+No. Audiobooks bought from Audible, Apple Books and most other stores are copy-protected (Digital Rights Management - DRM) and can only be played in their own apps. Volotome plays audio files you own outright, such as DRM-free purchases or your own recordings.
+
 ## How do I listen on Apple Watch without my iPhone?
 
 Open a book's details and turn on **Store on Apple Watch**. Once the transfer finishes, you'll find the book under **On Apple Watch** on your watch. Playing on the watch needs Bluetooth headphones. If a transfer seems stuck, put your Apple Watch on its charger near your iPhone.
@@ -22,7 +26,7 @@ No. Audiobooks and listening statistics are not included in iCloud backups.
 
 ## How do I move my listening statistics to a new iPhone?
 
-On your old iPhone, go to **Settings › Export Listening Data**. On the new one, add the file with **Settings › Import Listening Data**.
+On your old iPhone, go to **Settings › Export Listening Data**. This will hand you a file with your listening data. Save it in a location that is reachable on your new device. On the new iPhone, add the file with **Settings › Import Listening Data**.
 
 ## Privacy Policy
 

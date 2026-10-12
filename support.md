@@ -24,9 +24,13 @@ Open a book's details and turn on **Store on Apple Watch**. Once the transfer fi
 
 No. Audiobooks and listening statistics are not included in iCloud backups.
 
-## How do I move my listening statistics to a new iPhone?
+### How do I move my listening statistics to a new iPhone?
 
 On your old iPhone, go to **Settings › Export Listening Data**. This will hand you a file with your listening data. Save it in a location that is reachable on your new device. On the new iPhone, add the file with **Settings › Import Listening Data**.
+
+## Why is it called Volotome?
+
+It’s two words put together. Volo is Latin for “I fly”, and tome is a book. My main focus was the Apple Watch sync so I could take my books with me on my runs while leaving my phone at home. So a book that is flying free, untethered. This is where the idea for the app icon is from: a flying book seen from the front.
 
 ## Privacy Policy
 

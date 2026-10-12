@@ -26,8 +26,7 @@ If you use Volotome on Apple Watch, your library, listening positions, covers, a
 
 ## Crash reports
 
-If you have enabled “Share with App Developers” in your device settings, Apple may share aggregated diagnostic and usage data with me, such as crash reports. This is collected and handled by Apple under Apple’s privacy policy, not by Volotome, and you can switch it off in Settings › Privacy & Security › Analytics & Improvements.
-If you have turned on “Share with App Developers” in your device settings, Apple may share crash and diagnostic reports with me. This is collected and handled by Apple under Apple’s privacy policy, not by Volotome, and you can disable it in Settings › Privacy & Security › Analytics & Improvements.
+If you have enabled “Share with App Developers” in your device settings, Apple may share aggregated diagnostic and usage data with me, such as crash reports. This is collected and handled by Apple under Apple’s privacy policy, not by Volotome, and you can disable it in Settings › Privacy & Security › Analytics & Improvements.
 
 ## If you email me
 
